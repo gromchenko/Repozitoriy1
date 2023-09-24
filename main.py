@@ -69,6 +69,7 @@ user1.worker('Компания 1') # вызываем метод из класс
 
 print('users')
 
+print('hello')
 
 
 
